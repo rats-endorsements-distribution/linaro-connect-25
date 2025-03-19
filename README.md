@@ -14,6 +14,11 @@ Room: TBD
 |--|--|--|
 | Paul Howard | Arm | |
 | Thomas Fossati | Linaro | |
+| Greg Kostal | Microsoft Azure | |
+| Ned Smith | Intel | |
+| Kathleen Moriarty | Center for Internet Security | |
+| Michael Richardson | Sandelman Software Works | |
+| A.J. Stein | NIST | |
 
 ## Agenda
 
