@@ -19,6 +19,7 @@ Room: TBD
 | Kathleen Moriarty | Center for Internet Security | EST |
 | Michael Richardson | Sandelman Software Works | |
 | A.J. Stein | NIST | EST |
+| Yogesh Deshpande | Arm | |
 
 ## Agenda
 
