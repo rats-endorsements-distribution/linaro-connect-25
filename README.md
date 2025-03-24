@@ -12,14 +12,15 @@ Room: TBD
 
 | Name | Organisation | Time zone, if remote |
 |--|--|--|
-| Paul Howard | Arm | |
-| Thomas Fossati | Linaro | |
+| Paul Howard | Arm | n.a. |
+| Thomas Fossati | Linaro | n.a. |
 | Greg Kostal | Microsoft Azure | PST |
 | Ned Smith | Intel | PST |
 | Kathleen Moriarty | Center for Internet Security | EST |
-| Michael Richardson | Sandelman Software Works | |
+| Michael Richardson | Sandelman Software Works | n.a. |
 | A.J. Stein | NIST | EST |
-| Yogesh Deshpande | Arm | |
+| Yogesh Deshpande | Arm | n.a. |
+| Mathieu Poirier | Linaro | n.a. |
 
 ## Agenda
 
