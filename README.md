@@ -21,6 +21,9 @@ Room: TBD
 | A.J. Stein | NIST | EST |
 | Yogesh Deshpande | Arm | n.a. |
 | Mathieu Poirier | Linaro | n.a. |
+| Jag Raman | Oracle | EST |
+| Henk Birkholz | Fraunhofer SIT | n.a. |
+
 
 ## Agenda
 
