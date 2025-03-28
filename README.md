@@ -21,7 +21,7 @@ Room: TBD
 | A.J. Stein | NIST | EDT (UTC-4) |
 | Yogesh Deshpande | Arm | n.a. |
 | Mathieu Poirier | Linaro | n.a. |
-| Jag Raman | Oracle | EST |
+| Jag Raman | Oracle | EDT (UTC-4) |
 | Henk Birkholz | Fraunhofer SIT | n.a. |
 | Shefali Kamal | Fujitsu | n.a. |
 | xynnn (Ding) | Alibaba | CST (UTC+8) |
