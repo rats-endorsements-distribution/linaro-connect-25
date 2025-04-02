@@ -60,6 +60,7 @@ Room: TBD
 | Henk Birkholz | Fraunhofer SIT | n.a. |
 | Shefali Kamal | Fujitsu | n.a. |
 | xynnn (Ding) | Alibaba | CST (UTC+8) |
+| Nicolae Paladi | CanaryBit | CET |
 
 
 ## Agenda
