@@ -1,12 +1,33 @@
 # Endorsement API Workshop at [Linaro Connect 2025](https://www.linaro.org/connect)
 
-[**TBD link to the recordings**](TODO)
+## Abstract
+
+Endorsements and Reference Values, defined in [RFC9334](https://www.ietf.org/rfc/rfc9334.html), are essential artefacts for attestation evidence appraisal.
+They can originate from various sources throughout the supply chain, including silicon manufacturers, hardware integrators, firmware providers, and software providers.
+Their distribution is influenced by technical, commercial, and even geopolitical factors.
+The potential consumers of these artefacts, referred to as “Verifiers” in RATS terms, include cloud-hosted verification services, local verifiers bundled with relying parties, constrained nodes, and endpoint devices.
+This acute diversity creates challenges for software integration and poses fragmentation risks.
+Aligning on data formats and APIs will help address these challenges and maximise software component reuse for data transactions between endpoints.
+
+The workshop aims to highlight the issue of endorsement and reference value conveyance within the RATS architecture and to invite collaboration in this area.
+We will gather ideas and initiate early consensus building, with the intention of eventually creating or evolving one or more Internet Drafts to enhance the standards landscape surrounding these conveyances.
+
+During the workshop, we will explore in-depth:
+* Requirements,
+* Existing services and tools,
+* Interaction models and APIs,
+* Prototyping, and
+* Standardisation.
+
+## Details
 
 May 13 2025, 8am-6pm
 
 Corinthia, Lisbon, Portugal [(map)](https://www.openstreetmap.org/way/101941942#map=19/38.738712/-9.166492)
 
 Room: TBD
+
+[**TBD link to remote participation**](TODO)
 
 ## Participants
 
