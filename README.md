@@ -23,7 +23,7 @@ During the workshop, we will explore in-depth:
 
 We are soliciting participants to bring their topic for discussion.
 
-You can add one or more items to the agenda filing an [issue](https://github.com/rats-endorsements-distribution/linaro-connect-25/issues/new).
+You can add one or more items to the agenda filing an [issue](https://github.com/rats-endorsements-distribution/linaro-connect-25/issues/new?template=agenda-item.md).
 
 In-scope topics include, but are not limited to, the following:
 
