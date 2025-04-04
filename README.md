@@ -23,11 +23,11 @@ During the workshop, we will explore in-depth:
 
 We are soliciting participants to bring their topic for discussion.
 
-You can add one or more items to the agenda filing an [issue](https://github.com/rats-endorsements-distribution/linaro-connect-25/issues/new?template=agenda-item.md).
+You can add one or more items to the agenda by filing an [issue](https://github.com/rats-endorsements-distribution/linaro-connect-25/issues/new?template=agenda-item.md).
 
 In-scope topics include, but are not limited to, the following:
 
-* Harmonizing CoRIM-based and In-ToTo-based information and data models
+* Harmonizing CoRIM-based and in-toto-based information and data models
 * Existing Endorsement APIs (e.g., NVIDIA RIM Service, AMD Key Distribution System (KDS))
 * Endorsement APIs and discovery (e.g., using MUD)
 * Publish-subscribe architecture in HTTP and CoAP
