@@ -19,11 +19,19 @@ During the workshop, we will explore in-depth:
 * Prototyping, and
 * Standardisation.
 
+## Schedule
+
+The day's schedule is as follows:
+* Morning: Hackathon,
+* Afternoon: Presentations and Round-table Discussion.
+
 ## Call For Topics
 
 We are soliciting participants to bring their topic for discussion.
 
-You can add one or more items to the agenda by filing an [issue](https://github.com/rats-endorsements-distribution/linaro-connect-25/issues/new?template=agenda-item.md).
+You can add one or more items to the agenda by filing an issue:
+* [Hackathon project](https://github.com/rats-endorsements-distribution/linaro-connect-25/issues/new?template=hackathon-item.md),
+* [Presentations and discussion](https://github.com/rats-endorsements-distribution/linaro-connect-25/issues/new?template=agenda-item.md).
 
 In-scope topics include, but are not limited to, the following:
 
