@@ -69,6 +69,7 @@ Room: TBD
 | Shefali Kamal | Fujitsu | n.a. |
 | xynnn (Ding) | Alibaba | CST (UTC+8) |
 | Nicolae Paladi | CanaryBit | CET |
+| Tobin Feldman-Fitzthum | IBM Research | EDT |
 
 
 ## Agenda
