@@ -43,7 +43,7 @@ In-scope topics include, but are not limited to, the following:
 
 ## Details
 
-May 13 2025, 8am-6pm
+May 13 2025, 9am-5pm WEST (GMT+1)
 
 Corinthia, Lisbon, Portugal [(map)](https://www.openstreetmap.org/way/101941942#map=19/38.738712/-9.166492)
 
