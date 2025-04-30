@@ -74,8 +74,36 @@ Room: TBD
 
 ## Agenda
 
+### Morning (Hackathon) Activities
+
+**Note**: On-site participation only.
+However, all participants are welcome to to engage in hacking/prototyping activities in advance of the event, and present their findings as part of the afternoon activities, where remote participation will be enabled.
+
+Activities can happen in parallel.
+Timings are fluid, but activities wind up for lunch circa 13:00 CET.
+
+| Participating | Activity | Live on site?
+|--|--|--|
+| Paul Howard, Thomas Fossati | Evolving the CoSERV draft | yes
+
+### Afternoon (Presentation and Discussion) Activities
+
+**Note**: Remote participation is possible.
+See above for details.
+Timings subject to change on the day.
+
 | Who | Track | Title | Timing (CET) |
 |--|--|--|--|
+| Paul Howard, All | N/A | Welcome, Introductions and Agenda-Finalizing | 13:00
+| Michael Richardson | Requirements | An Endorsement Creation Protocol for Use by Auditors | 13:20
+| TBD | Requirements | _other track topics TBD_ | 13:40
+| Paul Howard | Existing Technologies | AMD KDS and NVIDIA RIM Service | 14:20
+| TBD | Existing Technologies | _other track topics TBD_ | 14:30
+| TBD | Interaction Models and APIs | _track topics TBD_ | 15:20
+| Thomas Fossati | Prototyping | CoSERV PoC in Veraison | 16:20
+| TBD | Prototyping | _other track topics TBD_ | 16:40
+| TBD | Standardisation | _track topics TBD_ | 17:20
+| Paul Howard, All | N/A | Wrap-Up | 17:50
 | | | | |
 
 ## Report
