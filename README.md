@@ -77,7 +77,7 @@ Room: TBD
 ### Morning (Hackathon) Activities
 
 **Note**: On-site participation only.
-However, all participants are welcome to to engage in hacking/prototyping activities in advance of the event, and present their findings as part of the afternoon activities, where remote participation will be enabled.
+However, all participants are welcome to engage in hacking/prototyping activities in advance of the event, and present their findings as part of the afternoon activities, where remote participation will be enabled.
 
 Activities can happen in parallel.
 Timings are fluid, but activities wind up for lunch circa 13:00 CET.
