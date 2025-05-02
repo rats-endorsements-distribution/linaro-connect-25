@@ -80,7 +80,7 @@ Room: TBD
 However, all participants are welcome to engage in hacking/prototyping activities in advance of the event, and present their findings as part of the afternoon activities, where remote participation will be enabled.
 
 Activities can happen in parallel.
-Timings are fluid, but activities wind up for lunch circa 13:00 CET.
+Timings are fluid, but activities wind up for lunch circa 12:00 CET.
 
 | Participating | Activity | Live on site?
 |--|--|--|
