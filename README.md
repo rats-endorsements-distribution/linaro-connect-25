@@ -71,6 +71,7 @@ Room: TBD
 | Nicolae Paladi | CanaryBit | CET |
 | Tobin Feldman-Fitzthum | IBM Research | EDT |
 | Huang Yang | Huawei | CST (UTC+8) |
+| Larry Dewey | AMD | CDT (UTC-5) |
 
 
 ## Agenda
