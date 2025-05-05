@@ -101,10 +101,12 @@ Timings subject to change on the day.
 | TBD | Requirements | _other track topics TBD_ | 13:40
 | Paul Howard | Existing Technologies | AMD KDS and NVIDIA RIM Service | 14:20
 | TBD | Existing Technologies | _other track topics TBD_ | 14:30
-| TBD | Interaction Models and APIs | _track topics TBD_ | 15:20
+| Henk Birkholz | Interaction Models and APIs | Use of MUD as Service Discovery Mechanism in RATS | 15:20
+| TBD | Interaction Models and APIs | _track topics TBD_ | 15:50
 | Thomas Fossati | Prototyping | CoSERV PoC in Veraison | 16:20
 | TBD | Prototyping | _other track topics TBD_ | 16:40
-| TBD | Standardisation | _track topics TBD_ | 17:20
+| Nicolae Paladi | Standardisation | IETF, ETSI-NFV and now ISO | 17:20
+| TBD | Standardisation | _track topics TBD_ | 17:50
 | Paul Howard, All | N/A | Wrap-Up | 17:50
 | | | | |
 
