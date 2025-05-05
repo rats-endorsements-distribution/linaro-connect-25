@@ -70,6 +70,7 @@ Room: TBD
 | xynnn (Ding) | Alibaba | CST (UTC+8) |
 | Nicolae Paladi | CanaryBit | CET |
 | Tobin Feldman-Fitzthum | IBM Research | EDT |
+| Huang Yang | Huawei | CST (UTC+8) |
 
 
 ## Agenda
