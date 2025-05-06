@@ -87,6 +87,9 @@ Timings are fluid, but activities wind up for lunch circa 12:00 CET.
 | Participating | Activity | Live on site?
 |--|--|--|
 | Paul Howard, Thomas Fossati | Evolving the CoSERV draft | yes
+| Henk Birkholz, Michael Richardson | Tiny Implementation for Muddy RATS | yes
+| Henk Birkholz | Prototype CDDL for in-toto Attestations | yes
+
 
 ### Afternoon (Presentation and Discussion) Activities
 
