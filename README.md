@@ -89,6 +89,7 @@ Timings are fluid, but activities wind up for lunch circa 12:00 CET.
 | Paul Howard, Thomas Fossati | Evolving the CoSERV draft | yes
 | Henk Birkholz, Michael Richardson | Tiny Implementation for Muddy RATS | yes
 | Henk Birkholz | Prototype CDDL for in-toto Attestations | yes
+| Paul Howard | CoSERV proxies for existing services | yes
 
 
 ### Afternoon (Presentation and Discussion) Activities
@@ -97,20 +98,19 @@ Timings are fluid, but activities wind up for lunch circa 12:00 CET.
 See above for details.
 Timings subject to change on the day.
 
-| Who | Track | Title | Timing (CET) |
-|--|--|--|--|
+| Who | Track | Title | Timing (CET) | Links
+|--|--|--|--|--|
 | Paul Howard, All | N/A | Welcome, Introductions and Agenda-Finalizing | 13:00
-| Michael Richardson | Requirements | An Endorsement Creation Protocol for Use by Auditors | 13:20
+| Michael Richardson | Requirements | An Endorsement Creation Protocol for Use by Auditors | 13:20 | [abstract](https://github.com/rats-endorsements-distribution/linaro-connect-25/issues/1), [draft](https://github.com/mcr/pop-endorsement/blob/main/pop-endorsement.mkd)
 | TBD | Requirements | _other track topics TBD_ | 13:40
-| Paul Howard | Existing Technologies | AMD KDS and NVIDIA RIM Service | 14:20
-| TBD | Existing Technologies | _other track topics TBD_ | 14:30
-| Henk Birkholz | Interaction Models and APIs | Use of MUD as Service Discovery Mechanism in RATS | 15:20
-| TBD | Interaction Models and APIs | _track topics TBD_ | 15:50
-| Thomas Fossati | Prototyping | CoSERV PoC in Veraison | 16:20
-| TBD | Prototyping | _other track topics TBD_ | 16:40
-| Nicolae Paladi | Standardisation | IETF, ETSI-NFV and now ISO | 17:20
-| TBD | Standardisation | _track topics TBD_ | 17:50
-| Paul Howard, All | N/A | Wrap-Up | 17:50
+| Paul Howard | Existing Technologies | AMD KDS and NVIDIA RIM Service | 14:00
+| Henk Birkholz | Interaction Models and APIs | Use of MUD as Service Discovery Mechanism in RATS | 14:20 | [abstract](https://github.com/rats-endorsements-distribution/linaro-connect-25/issues/8), [draft](https://datatracker.ietf.org/doc/draft-birkholz-rats-mud/)
+| Nicolae Paladi | Standardisation | IETF, ETSI-NFV and now ISO | 14:50 | [abstract](https://github.com/rats-endorsements-distribution/linaro-connect-25/issues/7)
+| Thomas Fossati, Paul Howard | Standardisation | CoSERV - Concise Selector for Endorsements and Reference Values | 15:20 | [draft](https://datatracker.ietf.org/doc/draft-howard-rats-coserv/)
+| All | N/A | **BREAK** (20 mins) | 15:40
+| Thomas Fossati | Prototyping | CoSERV PoC in Veraison | 16:00
+| All Hackathon Participants | Prototyping | Round-the-table reporting and discussion | 16:15
+| Paul Howard, All | N/A | Wrap-Up | 17:30
 | | | | |
 
 ## Report
