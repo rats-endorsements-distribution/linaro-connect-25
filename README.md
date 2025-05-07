@@ -49,7 +49,7 @@ Corinthia, Lisbon, Portugal [(map)](https://www.openstreetmap.org/way/101941942#
 
 Room: TBD
 
-[**TBD link to remote participation**](TODO)
+Remote participation: [Zoom URL](https://linaro-org.zoom.us/j/92068141447) [details](TODO)
 
 ## Participants
 
