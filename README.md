@@ -106,9 +106,9 @@ Timings subject to change on the day.
 | Paul Howard | Existing Technologies | AMD KDS and NVIDIA RIM Service | 14:00
 | Henk Birkholz | Interaction Models and APIs | Use of MUD as Service Discovery Mechanism in RATS | 14:20 | [abstract](https://github.com/rats-endorsements-distribution/linaro-connect-25/issues/8), [draft](https://datatracker.ietf.org/doc/draft-birkholz-rats-mud/)
 | Nicolae Paladi | Standardisation | IETF, ETSI-NFV and now ISO | 14:50 | [abstract](https://github.com/rats-endorsements-distribution/linaro-connect-25/issues/7)
-| Thomas Fossati, Paul Howard | Standardisation | CoSERV - Concise Selector for Endorsements and Reference Values | 15:20 | [draft](https://datatracker.ietf.org/doc/draft-howard-rats-coserv/)
+| Thomas Fossati, Paul Howard | Standardisation | CoSERV - Concise Selector for Endorsements and Reference Values | 15:20 | [draft](https://datatracker.ietf.org/doc/draft-howard-rats-coserv/), [slides](materials/coserv-std/coserv-std-v1.pdf)
 | All | N/A | **BREAK** (20 mins) | 15:40
-| Thomas Fossati | Prototyping | CoSERV PoC in Veraison | 16:00
+| Thomas Fossati | Prototyping | CoSERV PoC in Veraison | 16:00 | [slides](materials/coserv-poc/coserv-poc-v1.pdf)
 | All Hackathon Participants | Prototyping | Round-the-table reporting and discussion | 16:15
 | Paul Howard, All | N/A | Wrap-Up | 17:30
 | | | | |
