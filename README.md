@@ -66,7 +66,7 @@ Remote participation: [[Zoom URL]](https://linaro-org.zoom.us/j/92068141447) [[D
 | Mathieu Poirier | Linaro | n.a. |
 | Jag Raman | Oracle | EDT (UTC-4) |
 | Henk Birkholz | Fraunhofer SIT | n.a. |
-| Shefali Kamal | Fujitsu | n.a. |
+| Shefali Kamal | Fujitsu | IST (UTC+05:30) |
 | xynnn (Ding) | Alibaba | CST (UTC+8) |
 | Nicolae Paladi | CanaryBit | CET |
 | Tobin Feldman-Fitzthum | IBM Research | EDT |
