@@ -100,7 +100,7 @@ Timings subject to change on the day.
 
 | Who | Track | Title | Timing (CET) | Links
 |--|--|--|--|--|
-| Paul Howard, All | N/A | Welcome, Introductions and Agenda-Finalizing | 13:00
+| Paul Howard, All | N/A | Welcome, Introductions and Agenda-Finalizing | 13:00 | [slides](materials/introduction/intro-v1.pdf)
 | Michael Richardson | Requirements | An Endorsement Creation Protocol for Use by Auditors | 13:20 | [abstract](https://github.com/rats-endorsements-distribution/linaro-connect-25/issues/1), [draft](https://github.com/mcr/pop-endorsement/blob/main/pop-endorsement.mkd)
 | TBD | Requirements | _other track topics TBD_ | 13:40
 | Paul Howard | Existing Technologies | AMD KDS and NVIDIA RIM Service | 14:00 | [slides](materials/existing-technologies/existing-technologies-v1.pdf)
