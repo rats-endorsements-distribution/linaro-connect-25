@@ -1,0 +1,228 @@
+13:04:39 From Thomas Fossati to Everyone:
+	@h00618915 could you please set your name to something more intelligible? :-)
+	
+13:09:29 From Thomas Fossati to Everyone:
+	https://github.com/rats-endorsements-distribution/linaro-connect-25
+	
+13:11:54 From Houda Labiod to Thomas Fossati (direct message):
+	Houda Labiod from Huawei
+	Thomas Fossati:👋
+	Thomas Fossati:👍
+	
+13:12:33 From Thomas Fossati to Houda Labiod (direct message):
+	Hi Houda! Welcome
+	
+13:18:22 From Kathleen Moriarty to Everyone:
+	https://datatracker.ietf.org/doc/draft-ietf-rats-posture-assessment/
+	
+13:20:05 From Kathleen Moriarty to Everyone:
+	FYI, my affiliation was listed as CIS and I am currently at SecurityBiaS as I left CIS a bit over a year ago.
+	
+13:20:37 From Thomas Fossati to Everyone:
+	Replying to "FYI, my affiliation was listed as CIS and I am cur...":
+	Oops, I’ll update shortly
+	
+13:21:11 From Arron to Everyone:
+	hi
+	Thomas Fossati:👋
+	Kathleen Moriarty, Ding (Alibaba Cloud):😃
+	
+13:21:11 From Kathleen Moriarty to Everyone:
+	Replying to "FYI, my affiliation was listed as CIS and I am cur...":
+	Thank you :-)
+	
+13:22:58 From Thomas Fossati to Everyone:
+	Replying to "FYI, my affiliation was listed as CIS and I am cur...":
+	Done!
+	
+13:45:40 From Greg Kostal (MSFT) to Everyone:
+	ty for sharing the scenario Michael!
+	
+13:55:36 From Greg Kostal (MSFT) to Everyone:
+	This area is huge with different parties and goals.  Example:
+	firmware owner can say whether the firmware has a known security vulnerability
+	CSP operator can say whether they intend to run the firmware in their fleet
+	
+13:57:09 From Greg Kostal (MSFT) to Everyone:
+	The above statements probably work best as endorsements provided to all interested verifiers, not appraisal policy authored independently in each verifier.
+	
+13:59:34 From Greg Kostal (MSFT) to Everyone:
+	Defining/enforcing timeline for a refresh is also huge with lots of choices.  Too short -- hard/costly to operate.  Too long - security vulnerabilities create too much risk.  Pull model for refresh?  Push model for refresh?
+	
+14:06:23 From Jag Raman to Everyone:
+	To summarize my thought, not all components may have a version. For example, the domain/topology of a Platform/Shape.
+	
+14:11:40 From Thomas Fossati to Everyone:
+	Replying to "To summarize my thought, not all components may ha...":
+	I think MCR’s point was that they should
+	
+14:13:39 From Michael Richardson to Everyone:
+	Replying to "To summarize my thought, not all components may ha...":
+	There are too many instances of a vendor who changes CPU/integrator for a product, but does not change the case, or any of the outside markings.  From marketing point of view, it's the same product.  From a system integrity point of view, it's a completely different product, and it needs to be marked as such.  So I don't feel any sympathy for manufacturers that think they can swap things around as they wish.  There needs to be a version, even if it's just seconds since epoch when the CEO decided to change suppliers.
+	
+14:14:15 From Jag Raman to Everyone:
+	Replying to "To summarize my thought, not all components may ha...":
+	So, the assumption/requirement is that we need all components to have a version. It may not be feasible.
+	
+	I wonder how we could specify the Version of a topology?
+	
+	Unlike a firmware component (where Version is embedded into the firmware), we may not be able to read the version of a topology.
+	
+14:14:42 From Jag Raman to Everyone:
+	https://www.ietf.org/archive/id/draft-ietf-rats-corim-07.html#name-linked-tag
+	
+14:14:44 From Michael Richardson to Everyone:
+	Replying to "To summarize my thought, not all components may ha...":
+	A topology has a before and after state.  And so, it has a time at which it changed.
+	
+14:15:48 From Kathleen Moriarty to Everyone:
+	Replying to "To summarize my thought, not all components may ha...":
+	Having worked at RSA/EMD/Dell for 13 years, Michael is right. While chips remain constant for a while on a given platform, the decisions vary between platforms so the supporting teams do have to be concerned with the variations among the platforms they are responsible.
+	
+14:16:38 From Kathleen Moriarty to Everyone:
+	Replying to "To summarize my thought, not all components may ha...":
+	EMC :-)
+	
+14:18:46 From Ned Smith (Intel) to Everyone:
+	A nonce is a form of version control.
+	Greg Kostal (MSFT):👍
+	
+14:19:08 From Kathleen Moriarty to Everyone:
+	vSphere does attest the server host properties from boot. I know the lead on that from work at Dell if there are questions.
+	
+14:25:18 From Greg Kostal (MSFT) to Everyone:
+	As an example, MAA attestation results are 8 hours.
+	
+14:26:13 From Michael Richardson to Everyone:
+	I think vSphere, in the UI that lets you manipulate the VM, would actually version that info.  But, it's been ten years.
+	
+14:27:52 From Greg Kostal (MSFT) to Everyone:
+	I suspect the designs we come up with for endorsements + distribution API's should enable timeliness mechanisms that are both based on revocation and also short lived endorsements.
+	Thomas Fossati:👍
+	
+15:01:41 From Ned Smith (Intel) to Everyone:
+	NTD for a few minutes.
+	Thomas Fossati:👍
+	
+16:08:20 From Greg Kostal (MSFT) to Everyone:
+	Oh, wait.  Is the CoSERV a trusted signer?
+	
+16:41:08 From Kathleen Moriarty to Everyone:
+	Michael - you said my name?
+	
+16:44:50 From Greg Kostal (MSFT) to Everyone:
+	Every additional trusted signer is a big deal to a verifier like MAA.
+	
+16:47:09 From Jag Raman to Everyone:
+	It makes sense to have CoSERV in a local domain
+	
+16:48:17 From Greg Kostal (MSFT) to Everyone:
+	CoSERV that signs + answers queries, or CoSERV that caches endorsements + answers queries?
+	
+16:48:24 From Ned Smith (Intel) to Everyone:
+	Every additional trusted signer is a big deal to a verifier like MAA.
+	The aggregator is presenting a view into the state of the Attester as represented by appraisal results. The RP trusts the Verifier to assert appraisal results, but if a subset is needed by the RP, the trust model argues that the Verifier asserts the subset. The aggregator therefore is a delegate of the Verifier.
+	
+16:49:31 From Henk Birkholz (he/him) to Everyone:
+	I was speaking from the pov of the Attester Owner, running their own Verifiers.
+	
+16:49:55 From Ned Smith (Intel) to Everyone:
+	“Attester Owner” isn’t a thing.
+	
+16:50:19 From Henk Birkholz (he/him) to Everyone:
+	As an alternative scenario to integrator is the authority controlling CoSERV 
+	
+16:50:43 From Henk Birkholz (he/him) to Everyone:
+	The owner of the Attester then
+	
+16:50:53 From Ned Smith (Intel) to Everyone:
+	I’m assuming CoSERV is an API not a role.
+	
+16:51:42 From Paul Howard to Everyone:
+	Replying to "I’m assuming CoSERV is an API not a role.":
+	Correct. In fact, it’s not even an API - it’s a query language that would transact over some suitable API
+	
+16:52:54 From Ned Smith (Intel) to Everyone:
+	Replying to "It makes sense to have CoSERV in a local domain":
+	There are two conversations happening, one is about the hat an entity is wearing the other is about how to take care of the hat.
+	
+17:01:33 From Jag Raman to Everyone:
+	The aggregator’s advantage in signing endorsements is that it enables splitting large endorsement bundles from the main supplier into smaller parts because the signature applies only to the larger bundle, not individual endorsements.]
+	
+	This model is useful in a “local domain,” where the aggregator operates within the Verifier’s domain and is trusted as a subsystem. However, its appeal decreases when each verifier requires its own aggregator, adding complexity and redundancy.
+	
+	I appreciate the expertise in this community. Still, I prefer maintaining the main supplier’s signature, even if it means distributing the entire bundle, to ensure authenticity.
+	
+17:05:56 From Ned Smith (Intel) to Everyone:
+	I interpreted the use case for CoSERV as being between the RP and the Verifier where the RP wants a subset of the appraisal result.
+	
+17:06:43 From Ned Smith (Intel) to Everyone:
+	I wasn’t thinking it was a build-to-order RIM protocol.
+	
+17:07:29 From Jag Raman to Everyone:
+	Replying to "I interpreted the use case for CoSERV as being bet...":
+	I thought CoSERV sits between manufacturer and Verifier.
+	
+	Manufacturer’s endorsements <-> CoSERV <-> Verifier.
+	
+17:09:01 From Ned Smith (Intel) to Everyone:
+	Endorser <—> SCITT <—> Verifier is another example of something in between Endorsers and Verifiers
+	Jag Raman, Henk Birkholz (he/him):👍
+	
+17:13:23 From Henk Birkholz (he/him) to Everyone:
+	Yes, in my mind scitt provides additional assurances into the capabilities enabled by coserv
+	
+17:16:49 From Ned Smith (Intel) to Everyone:
+	… additional assurances …
+	
+17:17:18 From Ned Smith (Intel) to Everyone:
+	… additional assurances …
+	Some would say additional hand waves
+	
+17:18:48 From Henk Birkholz (he/him) to Everyone:
+	Well, it's as much as a Notary can do, notaries are not lawyers. They witness signing under certain conditions, contract checking or translation is done by others
+	
+17:19:37 From Greg Kostal (MSFT) to Everyone:
+	behind schedule for good reasons :D
+	
+17:20:21 From Henk Birkholz (he/him) to Everyone:
+	A notary, lawer, and translator can live in the same house with coserv, though
+	
+17:22:01 From Ned Smith (Intel) to Everyone:
+	If SCITT was just a repository, is coserv a SCITT restful interface?
+	
+17:24:16 From Jag Raman to Everyone:
+	Thank you @Thomas Fossati and @Paul Howard for organizing this very informative and interactive conference (I hope I’m not leaving out other organizers)!
+	
+17:34:55 From Ned Smith (Intel) to Everyone:
+	I think coserv is highlighting a distributed verifier use case
+	
+17:42:19 From Ned Smith (Intel) to Everyone:
+	What happened to the signature over the corim?
+	Greg Kostal (MSFT), Shefali Kamal(Fujitsu):👍
+	
+17:52:10 From Thomas Fossati to Everyone:
+	The signature is “consumed” by the aggregator.  If the client requested the full bundle - original signatures included - it will receive it as part of the returned CoSERV.
+	To be clear, the functionality is not yet implemented.
+	Greg Kostal (MSFT):👍
+	
+17:53:46 From Paul Howard to Everyone:
+	Replying to "What happened to the signature over the corim?":
+	In my hackathon project (the result of a few hours’ work), it was ignored. This was simply an exercise is mapping the API and the data. The CoSERV result was not re-signed either.
+	
+17:54:44 From Michael Richardson to Everyone:
+	https://github.com/in-toto/attestation/blob/main/spec/predicates/scai.md
+	
+17:59:53 From Greg Kostal (MSFT) to Everyone:
+	Is there an obvious location (that I'm missing) to find slides from this session?
+	Kathleen Moriarty:👍
+	
+18:01:07 From Greg Kostal (MSFT) to Everyone:
+	Thank you all for organizing -- very informative!
+	
+18:01:36 From Shefali Kamal(Fujitsu) to Everyone:
+	Thanks everyone for organizing this!!
+	
+18:01:43 From Shefali Kamal(Fujitsu) to Everyone:
+	.
+	
