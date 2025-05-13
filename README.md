@@ -59,7 +59,7 @@ Remote participation: [[Zoom URL]](https://linaro-org.zoom.us/j/92068141447) [[D
 | Thomas Fossati | Linaro | n.a. |
 | Greg Kostal | Microsoft Azure | PDT (UTC-7) |
 | Ned Smith | Intel | PDT (UTC-7) |
-| Kathleen Moriarty | Center for Internet Security | EDT (UTC-4) |
+| Kathleen Moriarty | SecurityBiaS | EDT (UTC-4) |
 | Michael Richardson | Sandelman Software Works | n.a. |
 | A.J. Stein | NIST | EDT (UTC-4) |
 | Yogesh Deshpande | Arm | n.a. |
