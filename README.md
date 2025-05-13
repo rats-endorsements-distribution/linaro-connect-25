@@ -82,7 +82,7 @@ Remote participation: [[Zoom URL]](https://linaro-org.zoom.us/j/92068141447) [[D
 However, all participants are welcome to engage in hacking/prototyping activities in advance of the event, and present their findings as part of the afternoon activities, where remote participation will be enabled.
 
 Activities can happen in parallel.
-Timings are fluid, but activities wind up for lunch circa 12:00 CET.
+Timings are fluid, but activities wind up for lunch circa 12:00 WEST.
 
 | Participating | Activity | Live on site?
 |--|--|--|
@@ -98,7 +98,7 @@ Timings are fluid, but activities wind up for lunch circa 12:00 CET.
 See above for details.
 Timings subject to change on the day.
 
-| Who | Track | Title | Timing (CET) | Links
+| Who | Track | Title | Timing (WEST GMT+1) | Links
 |--|--|--|--|--|
 | Paul Howard, All | N/A | Welcome, Introductions and Agenda-Finalizing | 13:00 | [slides](materials/introduction/intro-v1.pdf)
 | Michael Richardson | Requirements | An Endorsement Creation Protocol for Use by Auditors | 13:20 | [abstract](https://github.com/rats-endorsements-distribution/linaro-connect-25/issues/1), [draft](https://github.com/mcr/pop-endorsement/blob/main/pop-endorsement.mkd)
