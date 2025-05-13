@@ -12,7 +12,7 @@ theme: Next, 6
 
 Simple request-response over HTTP using `GET`
 
-CoSERV quert is in the outer-most path segment (allow caching)
+CoSERV query is in the outer-most path segment (allow caching)
 
 Parameterised media type (`profile` is a CoRIM profile)
 
