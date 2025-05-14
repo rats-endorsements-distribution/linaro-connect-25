@@ -73,6 +73,8 @@ Remote participation: [[Zoom URL]](https://linaro-org.zoom.us/j/92068141447) [[D
 | Huang Yang | Huawei | CST (UTC+8) |
 | Larry Dewey | AMD | CDT (UTC-5) |
 | Jun Zhang | Huawei | CET |
+| Houda Labiod | Huawei | CET |
+
 
 ## Agenda
 
