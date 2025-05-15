@@ -122,3 +122,9 @@ The recordings of the afternoon session can be found [here](https://linaro-org.z
 ## Report
 
 TODO
+
+## Sponsors
+
+We are thankful to Linaro, CCC and the Arm Developer Program for providing the meeting space and the facilities.
+
+
