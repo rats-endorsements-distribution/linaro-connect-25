@@ -103,11 +103,11 @@ Timings subject to change on the day.
 | Who | Track | Title | Timing (WEST GMT+1) | Links
 |--|--|--|--|--|
 | Paul Howard, All | N/A | Welcome, Introductions and Agenda-Finalizing | 13:00 | [slides](materials/introduction/intro-v1.pdf)
-| Michael Richardson | Requirements | An Endorsement Creation Protocol for Use by Auditors | 13:20 | [abstract](https://github.com/rats-endorsements-distribution/linaro-connect-25/issues/1), [draft](https://github.com/mcr/pop-endorsement/blob/main/pop-endorsement.mkd)
+| Michael Richardson | Requirements | An Endorsement Creation Protocol for Use by Auditors | 13:20 | [abstract](https://github.com/rats-endorsements-distribution/linaro-connect-25/issues/1), [draft](https://github.com/mcr/pop-endorsement/blob/main/pop-endorsement.mkd), [slides](materials/proof-of-presence/2025may13-endorsement-workshop.pdf)
 | TBD | Requirements | _other track topics TBD_ | 13:40
 | Paul Howard | Existing Technologies | AMD KDS and NVIDIA RIM Service | 14:00 | [slides](materials/existing-technologies/existing-technologies-v1.pdf)
-| Henk Birkholz | Interaction Models and APIs | Use of MUD as Service Discovery Mechanism in RATS | 14:20 | [abstract](https://github.com/rats-endorsements-distribution/linaro-connect-25/issues/8), [draft](https://datatracker.ietf.org/doc/draft-birkholz-rats-mud/)
-| Nicolae Paladi | Standardisation | IETF, ETSI-NFV and now ISO | 14:50 | [abstract](https://github.com/rats-endorsements-distribution/linaro-connect-25/issues/7)
+| Henk Birkholz | Interaction Models and APIs | Use of MUD as Service Discovery Mechanism in RATS | 14:20 | [abstract](https://github.com/rats-endorsements-distribution/linaro-connect-25/issues/8), [draft](https://datatracker.ietf.org/doc/draft-birkholz-rats-mud/), [slides](materials/muddy-rats/muddy-rats.pdf)
+| Nicolae Paladi | Standardisation | IETF, ETSI-NFV and now ISO | 14:50 | [abstract](https://github.com/rats-endorsements-distribution/linaro-connect-25/issues/7), [slides](materials/standardisation-zoo/standardisation-zoo.pdf)
 | Thomas Fossati, Paul Howard | Standardisation | CoSERV - Concise Selector for Endorsements and Reference Values | 15:20 | [draft](https://datatracker.ietf.org/doc/draft-howard-rats-coserv/), [slides](materials/coserv-std/coserv-std-v1.pdf)
 | All | N/A | **BREAK** (20 mins) | 15:40
 | Thomas Fossati | Prototyping | CoSERV PoC in Veraison | 16:00 | [slides](materials/coserv-poc/coserv-poc-v1.pdf)
