@@ -115,6 +115,10 @@ Timings subject to change on the day.
 | Paul Howard, All | N/A | Wrap-Up | 17:30
 | | | | |
 
+## Recordings
+
+The recordings of the afternoon session can be found [here](https://linaro-org.zoom.us/rec/share/6BeK1-UkiPNFyrZEHqZe7a63rnxNm1iKqxcRg5U6LXF20U9NZFmduHqkOlwMksDT.J5nHtHBo9hxGwLDs).  The passcode is `KY6pER$+`
+
 ## Report
 
 TODO
