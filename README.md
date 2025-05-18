@@ -125,6 +125,10 @@ TODO
 
 ## Sponsors
 
-We are thankful to Linaro, CCC and the Arm Developer Program for providing the meeting space and the facilities.
+We are thankful to [Linaro](https://linaro.org), [CCC](https://confidentialcomputing.io/) and the [Arm Developer Program](https://www.arm.com/resources/developer-program) for providing the meeting space and the facilities.
+
+![Linaro](materials/sponsors/linaro.png)
+![arm](materials/sponsors/arm.png)
+![CCC](materials/sponsors/ccc.png)
 
 
