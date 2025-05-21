@@ -129,7 +129,7 @@ Ned asks about how the signatures were being handled, and Paul responds that the
 ### CoSERV API and Implementation
 The group discusses the CoSERV API and its capability to return signed CoRIM from the original source.
 Thomas clarifies that while this functionality is not yet implemented, it is a core requirement to optionally bundle the original data for transparency.
-The conversation then shifts to the timeline for implementing CoSERV support in Verizon, with Thomas explaining that it's currently in a branch but not ready for mainline due to the evolving nature of the specification.
+The conversation then shifts to the timeline for implementing CoSERV support in Veraison, with Thomas explaining that it's currently in a branch but not ready for mainline due to the evolving nature of the specification.
 
 ### CDDL Data Model for In-ToTo Attestations
 Henk reports on his morning hackathon activities.
