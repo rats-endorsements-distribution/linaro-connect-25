@@ -92,13 +92,13 @@ Greg raises a question about supporting legacy data formats, which Thomas acknow
 The discussion also covers aggregating endorsements from multiple sources and flexible trust models.
 Caching of endorsements is debated, with Greg highlighting challenges around revocation and freshness when caching signed artifacts from external sources.
 
-### Coserve's Role in Endorsement Validation
+### CoSERV's Role in Endorsement Validation
 The discussion focuses on the role and responsibilities of the CoSERV component in handling endorsements and their validation.
 Greg raises concerns about whether CoSERV should provide all data required to validate endorsements, including up-to-date OCSP responses for certificate chains.
 Thomas clarifies that CoSERV is intended to carry deep audit information from throughout the supply chain, but the current design does not yet specify how this will be done.
 The group debates the challenges of managing timeliness and revocation of endorsements, particularly in cases like NVIDIA's approach of tying signing authority to integrity measurements.
 They consider the implications of changing OCSP validity periods and how to handle these changes in the CoSERV context.
-The conversation concludes with a suggestion to separate concerns between distribution and potential re-signing roles for CoSERV, acknowledging that if coserve takes on additional roles, it could become a trusted third party making derived decisions.
+The conversation concludes with a suggestion to separate concerns between distribution and potential re-signing roles for CoSERV, acknowledging that if CoSERV takes on additional roles, it could become a trusted third party making derived decisions.
 
 ### CoSERV Protocol and Veraison Implementation
 Thomas discusses the CoSERV (Endorsement Distribution) protocol, which includes queries and result sets.
@@ -141,7 +141,7 @@ He shares his exploration of the In-Toto attestation specification, noting its s
 - Thomas and Michael to determine which working group the endorsement creation protocol document should be submitted to.
 - Kathleen to draft a liaison request for ETSI and ISO documents related to confidential computing standards.
 - Nicolae to send Kathleen the contact information for the head of the ISO work group on confidential computing.
-- Thomas to provide Kathleen with specific document requests for Etsy and ISO.
+- Nicolae to provide Kathleen with specific document requests for ETSI and ISO.
 - Confidential computing community to consider ways to align work in ETSI with IETF use cases.
 - Workshop participants to continue discussion on CoSERV and its implementation as a standard for endorsement and reference value conveyance.
 - Paul to add a report summarizing the meeting's discussions and outcomes to the project repository.
