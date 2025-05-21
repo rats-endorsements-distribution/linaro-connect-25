@@ -146,7 +146,7 @@ He shares his exploration of the In-Toto attestation specification, noting its s
 - Workshop participants to continue discussion on CoSERV and its implementation as a standard for endorsement and reference value conveyance.
 - Paul to add a report summarizing the meeting's discussions and outcomes to the project repository.
 - Paul to continue working on the example proxy plugin for NVIDIA RIMs in the CoSERV implementation.
-- Paul and Thomas to consider adding support for returning original signed Co-RIMs as part of the Coserve API.
+- Paul and Thomas to consider adding support for returning original signed CoRIMs as part of the CoSERV API.
 - Paul and Thomas to develop deployment scenarios to clarify different use cases for Coserve.
 - Thomas to continue developing the CoSERV proof-of-concept in their project branch.
 - Thomas to save the chat log from the meeting.
