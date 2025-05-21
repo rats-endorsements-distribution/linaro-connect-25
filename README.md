@@ -61,7 +61,7 @@ Remote participation: [[Zoom URL]](https://linaro-org.zoom.us/j/92068141447) [[D
 | Ned Smith | Intel | PDT (UTC-7) |
 | Kathleen Moriarty | SecurityBiaS | EDT (UTC-4) |
 | Michael Richardson | Sandelman Software Works | n.a. |
-| A.J. Stein | NIST | EDT (UTC-4) |
+| A.J. Stein | US Government | EDT (UTC-4) |
 | Yogesh Deshpande | Arm | n.a. |
 | Mathieu Poirier | Linaro | n.a. |
 | Jag Raman | Oracle | EDT (UTC-4) |
