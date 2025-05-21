@@ -139,7 +139,7 @@ He shares his exploration of the In-Toto attestation specification, noting its s
 ### Actions and Next Steps
 - Michael to further develop the endorsement creation protocol for physical audits of device locations.
 - Thomas and Michael to determine which working group the endorsement creation protocol document should be submitted to.
-- Kathleen to draft a liaison request for Etsy and ISO documents related to confidential computing standards.
+- Kathleen to draft a liaison request for ETSI and ISO documents related to confidential computing standards.
 - Nicolae to send Kathleen the contact information for the head of the ISO work group on confidential computing.
 - Thomas to provide Kathleen with specific document requests for Etsy and ISO.
 - Confidential computing community to consider ways to align work in ETSI with IETF use cases.
