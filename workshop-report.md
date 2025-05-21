@@ -86,7 +86,7 @@ Kathleen agreed with Nicolae's points and suggested that they ignore ISO for now
 She also suggested that they align their work with ETSI to cover unique use cases in the telecom industry.
 
 ### CoSERV Proposal for Endorsements and Reference Values
-The group discusses the CoSERV (Concise Selector for Endorsements and Reference Values) proposal for conveying endorsements and reference values to verifiers.
+The group discusses the [CoSERV (Concise Selector for Endorsements and Reference Values)](https://datatracker.ietf.org/doc/draft-howard-rats-coserv/) proposal for conveying endorsements and reference values to verifiers.
 Paul outlines the guiding principles, including decoupling the message from transport, supporting different interaction models, and optimizing for constrained consumers.
 Greg raises a question about supporting legacy data formats, which Thomas acknowledges as important for adoption.
 The discussion also covers aggregating endorsements from multiple sources and flexible trust models.
@@ -148,5 +148,5 @@ He shares his exploration of the In-Toto attestation specification, noting its s
 - Paul to continue working on the example proxy plugin for NVIDIA RIMs in the CoSERV implementation.
 - Paul and Thomas to consider adding support for returning original signed CoRIMs as part of the CoSERV API.
 - Paul and Thomas to develop deployment scenarios to clarify different use cases for CoSERV.
-- Thomas to continue developing the CoSERV proof-of-concept in their project branch.
+- Thomas to continue developing the CoSERV proof-of-concept in their [project branch](https://github.com/veraison/services/tree/coserv).
 - Thomas to save the chat log from the meeting.
