@@ -17,7 +17,7 @@ Michael Richardson is set to present first on the endorsement creation protocol 
 ### Proof of Presence Endorsement Concept
 Michael Richardson presents a concept for a "Proof of Presence Endorsement" to verify the physical location of network devices.
 This endorsement is created by an auditor who physically inspects the device and exchanges signed data with it through a console protocol.
-The process involves the auditor connecting to the device, verifying its identity, and creating a signed attestation about its location and connections.
+The process involves the auditor connecting to the device, verifying its identity, and creating a signed endorsement about its location and connections.
 The endorsement can then be loaded into the device for future verification.
 Michael discusses potential implementation details, security considerations, and the relationship of this concept to other standards like MUD (Manufacturer Usage Description).
 The group discusses the format of the endorsement (EAR vs. CORIM) and how this fits into the broader attestation model, noting that it's different from manufacturer-provided endorsements and focuses on deployed device characteristics.
