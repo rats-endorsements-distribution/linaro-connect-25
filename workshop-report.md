@@ -51,7 +51,7 @@ They also touch on the differences between recentness and freshness of endorseme
 - Greg: the parties in the flow have a voice to say how fresh the endorsement is (Supply chain vs Repackager — CSP)
 - Jag: attester shapes change too, not just the measured component
 - Michael: Versions: we need to assign versions to things
-Synth: attester shapes are endorsements and must have versions
+- Synth: attester shapes are endorsements and must have versions
 - Greg’s note: I suspect the designs we come up with for endorsements + distribution API's should enable timeliness mechanisms that are both based on revocation and also short lived endorsements
 
 ### Existing Technologies
