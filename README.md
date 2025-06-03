@@ -121,7 +121,7 @@ The recordings of the afternoon session can be found [here](https://linaro-org.z
 
 ## Report
 
-TODO
+The workshop report is now available to read [here](workshop-report.md).
 
 ## Sponsors
 
